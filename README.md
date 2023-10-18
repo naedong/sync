@@ -28,3 +28,12 @@
  * APK 사용법
  > 1. apk 파일을 설치한 기기에 다운로드
 >  2. 기기에서 설치를 하시면 됩니다.
+
+
+---
+
+* 테스트 동영상입니다.
+
+https://github.com/naedong/sync/assets/107181511/2ce4ec85-465a-4d9a-9009-d9997d1b6b3f
+
+* 값을 변경하면 CHAT GPT API 에 값을 보낸 후 반환값을 보험 API의 값에 filter 를 하여 가져오는 방식입니다.  
